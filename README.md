@@ -49,11 +49,6 @@ Follow the on-screen menu to add/view/delete/filter your expenses.
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> *(Add screenshots of your terminal UI if you want to show it off)*
-
----
 
 ## 📘 Notes & Reference (What I Learned)
 
