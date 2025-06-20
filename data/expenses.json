@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 500.0,
+        "category": "skincare.",
+        "note": "moisturizer and sunscreen",
+        "date": "20-06-2025"
+    },
+    {
+        "amount": 100.0,
+        "category": "entertainment",
+        "note": "went to a movie",
+        "date": "20-06-2025"
+    },
+    {
+        "amount": 4500.0,
+        "category": "travel",
+        "note": "went on a trip to Wayanad",
+        "date": "20-06-2025"
+    }
+]
